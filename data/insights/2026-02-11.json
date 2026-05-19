@@ -1,0 +1,93 @@
+[
+  {
+    "id": "2026-02-11-insight-036",
+    "created_at": "2026-04-29T09:37:13.222Z",
+    "dimension": "AI Infra",
+    "key_viewpoints": "视频数据，Scaling Law，世界模型，物理常识，互联网视频预训练",
+    "original_quote": "互联网上最廉价的两种模态是文本和视频。如果说LLM吃透了文本，那么具身智能的下一个Scaling Law将来自视频。世界模型在此方向将扮演重要角色。",
+    "original_context": "互联网上最廉价的两种模态是文本和视频。如果说LLM吃透了文本，那么具身智能的下一个Scaling Law将来自视频。世界模型在此方向将扮演重要角色。通过对海量人类操作视频、行车记录仪数据的生成式预训练，模型将隐式习得物理定律（重力、惯性、碰撞后果等）。",
+    "article_id": "2026-02-11-89f93fac",
+    "article_title": "具身智能漫长的进化史、下一个Scaling与硝烟",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzE5ODg1MTY4Mw==&mid=2247484854&idx=1&sn=cca155c444e6f49d5a7d469ac4a7a6dd&chksm=969428baa1e3a1ac678182c160f145ef54e2a4c589c1e9d09cf45ccc2df5b83a9e3f4ba0b854#rd",
+    "source": "语言即世界language is world",
+    "pub_date": "2026-02-11T09:20:00.000Z"
+  },
+  {
+    "id": "2026-02-11-insight-037",
+    "created_at": "2026-04-29T09:37:13.222Z",
+    "dimension": "AI Infra",
+    "key_viewpoints": "互联网数据，泛化，价值观对齐，物理规律，安全边界",
+    "original_quote": "如何在利用互联网知识预训练的同时，确保模型不被抽象和虚幻内容干扰，并严格保持人类的价值观？",
+    "original_context": "随着具身智能从对特定专家数据的“过拟合”转向对互联网大规模图文视频的“泛化”，一个前所未有的挑战也摆在面前：如何在利用互联网知识预训练的同时，确保模型不被抽象和虚幻内容干扰，并严格保持人类的价值观？",
+    "article_id": "2026-02-11-89f93fac",
+    "article_title": "具身智能漫长的进化史、下一个Scaling与硝烟",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzE5ODg1MTY4Mw==&mid=2247484854&idx=1&sn=cca155c444e6f49d5a7d469ac4a7a6dd&chksm=969428baa1e3a1ac678182c160f145ef54e2a4c589c1e9d09cf45ccc2df5b83a9e3f4ba0b854#rd",
+    "source": "语言即世界language is world",
+    "pub_date": "2026-02-11T09:20:00.000Z"
+  },
+  {
+    "id": "2026-02-11-insight-038",
+    "created_at": "2026-04-29T09:37:13.222Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "VLA，认知驱动，多步推理，测试时计算，Scaling Law",
+    "original_quote": "VLA真正的威力在于多步推理，包含但不限于使用语言（L）来推理。",
+    "original_context": "VLA真正的威力在于多步推理，包含但不限于使用语言（L）来推理。······语言推理的用处是在复杂任务或OOD情况时，利用语言Token进行采样。广义上讲，这是利用预训练的通识能力辅助决策；统计学上看，这是通过多步推理增加信息量、减少熵，从而做出更确定决策的过程。",
+    "article_id": "2026-02-11-89f93fac",
+    "article_title": "具身智能漫长的进化史、下一个Scaling与硝烟",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzE5ODg1MTY4Mw==&mid=2247484854&idx=1&sn=cca155c444e6f49d5a7d469ac4a7a6dd&chksm=969428baa1e3a1ac678182c160f145ef54e2a4c589c1e9d09cf45ccc2df5b83a9e3f4ba0b854#rd",
+    "source": "语言即世界language is world",
+    "pub_date": "2026-02-11T09:20:00.000Z"
+  },
+  {
+    "id": "2026-02-11-insight-039",
+    "created_at": "2026-04-29T09:37:13.222Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "VLA，决策层，流匹配，多模问题，拟人感，泛化性",
+    "original_quote": "以Pi0为代表的模型引入了Flow Matching作为解码器，这种方式与Diffusion Policy类似，很好地解决了多模（Multi-Modal）问题，也兼顾了生成速度，同时连续建模也使轨迹输出更加精确。",
+    "original_context": "流匹配（Flow Matching）：这一系列工作是2025年初最激动人心的突破。以Pi0为代表的模型引入了Flow Matching作为解码器，这种方式与Diffusion Policy类似，很好地解决了多模（Multi-Modal）问题，也兼顾了生成速度，同时连续建模也使轨迹输出更加精确。",
+    "article_id": "2026-02-11-89f93fac",
+    "article_title": "具身智能漫长的进化史、下一个Scaling与硝烟",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzE5ODg1MTY4Mw==&mid=2247484854&idx=1&sn=cca155c444e6f49d5a7d469ac4a7a6dd&chksm=969428baa1e3a1ac678182c160f145ef54e2a4c589c1e9d09cf45ccc2df5b83a9e3f4ba0b854#rd",
+    "source": "语言即世界language is world",
+    "pub_date": "2026-02-11T09:20:00.000Z"
+  },
+  {
+    "id": "2026-02-11-insight-040",
+    "created_at": "2026-04-29T09:37:13.222Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "VLA，决策层，通用经济性，泛化性，专业性能，不可能三角",
+    "original_quote": "在追求通用经济性（无需训练适应多种本体）、泛化性（适应未见场景）与专业性能（推理速度与控制精度）的“不可能三角”中，现有架构似乎还没有完全收敛。",
+    "original_context": "在追求通用经济性（无需训练适应多种本体）、泛化性（适应未见场景）与专业性能（推理速度与控制精度）的“不可能三角”中，现有架构似乎还没有完全收敛。",
+    "article_id": "2026-02-11-89f93fac",
+    "article_title": "具身智能漫长的进化史、下一个Scaling与硝烟",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzE5ODg1MTY4Mw==&mid=2247484854&idx=1&sn=cca155c444e6f49d5a7d469ac4a7a6dd&chksm=969428baa1e3a1ac678182c160f145ef54e2a4c589c1e9d09cf45ccc2df5b83a9e3f4ba0b854#rd",
+    "source": "语言即世界language is world",
+    "pub_date": "2026-02-11T09:20:00.000Z"
+  },
+  {
+    "id": "2026-02-11-insight-041",
+    "created_at": "2026-04-29T09:37:13.222Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "强化学习，模仿学习，专家数据，安全边界，长尾场景",
+    "original_quote": "如果说模仿学习教会了机器人“该做什么”，那么强化学习（RL）的核心价值在于教会机器人“不能做什么”。",
+    "original_context": "如果说模仿学习教会了机器人“该做什么”，那么强化学习（RL）的核心价值在于教会机器人“不能做什么”。在数据稀缺背景下，RL是突破专家数据天花板的关键。未来的VLA模型在经历“大模型预训练 -> 微调 -> 开环后训练”范式后，需要在仿真或真实的闭环环境中进一步强化。通过不断的试错与纠正，让自动驾驶和机器人模型学会处理物理约束、安全边界以及长尾场景中的复杂博弈。",
+    "article_id": "2026-02-11-89f93fac",
+    "article_title": "具身智能漫长的进化史、下一个Scaling与硝烟",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzE5ODg1MTY4Mw==&mid=2247484854&idx=1&sn=cca155c444e6f49d5a7d469ac4a7a6dd&chksm=969428baa1e3a1ac678182c160f145ef54e2a4c589c1e9d09cf45ccc2df5b83a9e3f4ba0b854#rd",
+    "source": "语言即世界language is world",
+    "pub_date": "2026-02-11T09:20:00.000Z"
+  },
+  {
+    "id": "2026-02-11-insight-042",
+    "created_at": "2026-04-29T09:37:13.222Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "在线学习，终身学习，测试时学习，In-context Learning，Memory Bank",
+    "original_quote": "部署后的自动驾驶与机器人模型不应是静态的，真正的具身智能体必须具备在交互中学习的能力。",
+    "original_context": "部署后的自动驾驶与机器人模型不应是静态的，真正的具身智能体必须具备在交互中学习的能力。当前的VLA大多是离线训练，面对环境变化往往束手无策。2026年，我们将看到更多具备“测试时学习”（Test-time Learning）能力的模型。形式可能不仅是参数微调，更包括In-context Learning、Memory Bank或RAG等大模型范式在具身场景的深度应用。",
+    "article_id": "2026-02-11-89f93fac",
+    "article_title": "具身智能漫长的进化史、下一个Scaling与硝烟",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzE5ODg1MTY4Mw==&mid=2247484854&idx=1&sn=cca155c444e6f49d5a7d469ac4a7a6dd&chksm=969428baa1e3a1ac678182c160f145ef54e2a4c589c1e9d09cf45ccc2df5b83a9e3f4ba0b854#rd",
+    "source": "语言即世界language is world",
+    "pub_date": "2026-02-11T09:20:00.000Z"
+  }
+]

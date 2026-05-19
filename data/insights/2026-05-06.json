@@ -1,0 +1,80 @@
+[
+  {
+    "id": "2026-05-06-insight-007",
+    "created_at": "2026-05-19T06:10:14.636Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "多智能体协同，Anthropic，Dario Amodei，组织能力，AI团队",
+    "original_quote": "Dario 在大会上说，多智能体（multiple agents）会成为接下来最重要的方向之一。简单理解：不再只有一个 AI 帮你完成任务，而是一组 AI 同时工作，有的负责拆解任务，有的负责执行，有的负责检查错误，还有的继续向下分配工作。它越来越像一个真实团队。",
+    "original_context": "Dario 在大会上说，多智能体（multiple agents）会成为接下来最重要的方向之一。简单理解：不再只有一个 AI 帮你完成任务，而是一组 AI 同时工作，有的负责拆解任务，有的负责执行，有的负责检查错误，还有的继续向下分配工作。它越来越像一个真实团队。",
+    "article_id": "2026-05-06-28530c77",
+    "article_title": "AI 时代，最值钱的公司，反而人最少",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497917&idx=1&sn=9af884917400759ab3f9a167ee6d18ba&chksm=f157f7fd628ef725b038df9178b20667f05c0511670ee5d8133b2553f1c87fe93aa510eb0aa8&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-05-06T23:58:00.000Z"
+  },
+  {
+    "id": "2026-05-06-insight-008",
+    "created_at": "2026-05-19T06:10:14.636Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI能力单位转变，个人工具到组织能力，Anthropic，Dario Amodei",
+    "original_quote": "Dario 用了一个夸张的比喻：“一个数据中心里，装着一个国家的天才。”这句话的重点不在“天才”，而在“国家”。因为这意味着，AI 的能力单位，正在从“个人工具”变成“组织能力”。",
+    "original_context": "Dario 用了一个夸张的比喻：“一个数据中心里，装着一个国家的天才。”这句话的重点不在“天才”，而在“国家”。因为这意味着，AI 的能力单位，正在从“个人工具”变成“组织能力”。",
+    "article_id": "2026-05-06-28530c77",
+    "article_title": "AI 时代，最值钱的公司，反而人最少",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497917&idx=1&sn=9af884917400759ab3f9a167ee6d18ba&chksm=f157f7fd628ef725b038df9178b20667f05c0511670ee5d8133b2553f1c87fe93aa510eb0aa8&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-05-06T23:58:00.000Z"
+  },
+  {
+    "id": "2026-05-06-insight-009",
+    "created_at": "2026-05-19T06:10:14.636Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "SaaS行业冲击，AI替代软件中介，Anthropic，Dario Amodei，商业模式变革",
+    "original_quote": "他明确表示：某些 SaaS 公司，未来大概率会彻底倒闭。······如果 AI 已经可以自动理解问题、自动调用数据、自动生成回复、自动跟进记录，那企业未来真正需要的，可能就不再是一个传统客服软件，而是一个直接把事情做完的 AI。",
+    "original_context": "他明确表示：某些 SaaS 公司，未来大概率会彻底倒闭。······如果 AI 已经可以自动理解问题、自动调用数据、自动生成回复、自动跟进记录，那企业未来真正需要的，可能就不再是一个传统客服软件，而是一个直接把事情做完的 AI。",
+    "article_id": "2026-05-06-28530c77",
+    "article_title": "AI 时代，最值钱的公司，反而人最少",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497917&idx=1&sn=9af884917400759ab3f9a167ee6d18ba&chksm=f157f7fd628ef725b038df9178b20667f05c0511670ee5d8133b2553f1c87fe93aa510eb0aa8&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-05-06T23:58:00.000Z"
+  },
+  {
+    "id": "2026-05-06-insight-010",
+    "created_at": "2026-05-19T06:10:14.636Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI进入组织区域，中间层能力压缩，Anthropic，Dario Amodei，组织变革",
+    "original_quote": "AI 智能体的逻辑开始变成：AI 替你完成工作。······这意味着，AI 开始进入过去属于组织的区域。以前，一个企业真正的优势，是拥有更大的团队、更复杂的流程、更强的管理能力、更成熟的协作方式。但如果 AI 已经能够承担越来越多协同工作，那很多传统组织里的中间层能力，就会被快速压缩。",
+    "original_context": "AI 智能体的逻辑开始变成：AI 替你完成工作。······这意味着，AI 开始进入过去属于组织的区域。以前，一个企业真正的优势，是拥有更大的团队、更复杂的流程、更强的管理能力、更成熟的协作方式。但如果 AI 已经能够承担越来越多协同工作，那很多传统组织里的中间层能力，就会被快速压缩。",
+    "article_id": "2026-05-06-28530c77",
+    "article_title": "AI 时代，最值钱的公司，反而人最少",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497917&idx=1&sn=9af884917400759ab3f9a167ee6d18ba&chksm=f157f7fd628ef725b038df9178b20667f05c0511670ee5d8133b2553f1c87fe93aa510eb0aa8&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-05-06T23:58:00.000Z"
+  },
+  {
+    "id": "2026-05-06-insight-011",
+    "created_at": "2026-05-19T06:10:14.636Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "组织适应AI，新瓶颈出现，Anthropic，Dario Amodei，管理变革",
+    "original_quote": "当 Claude 开始帮助团队大规模生成代码之后，新的瓶颈立刻出现：谁验证？谁维护？谁发现隐藏问题？谁控制技术债？谁协调不同模块？",
+    "original_context": "当 Claude 开始帮助团队大规模生成代码之后，新的瓶颈立刻出现：谁验证？谁维护？谁发现隐藏问题？谁控制技术债？谁协调不同模块？",
+    "article_id": "2026-05-06-28530c77",
+    "article_title": "AI 时代，最值钱的公司，反而人最少",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497917&idx=1&sn=9af884917400759ab3f9a167ee6d18ba&chksm=f157f7fd628ef725b038df9178b20667f05c0511670ee5d8133b2553f1c87fe93aa510eb0aa8&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-05-06T23:58:00.000Z"
+  },
+  {
+    "id": "2026-05-06-insight-012",
+    "created_at": "2026-05-19T06:10:14.636Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "未来护城河，更少人调动更大智能，Anthropic，Dario Amodei，商业模式",
+    "original_quote": "未来的护城河，可能就是：谁能用更少的人，调动更大的智能。",
+    "original_context": "未来的护城河，可能就是：谁能用更少的人，调动更大的智能。",
+    "article_id": "2026-05-06-28530c77",
+    "article_title": "AI 时代，最值钱的公司，反而人最少",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497917&idx=1&sn=9af884917400759ab3f9a167ee6d18ba&chksm=f157f7fd628ef725b038df9178b20667f05c0511670ee5d8133b2553f1c87fe93aa510eb0aa8&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-05-06T23:58:00.000Z"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2026-04-19-insight-021",
+    "created_at": "2026-04-29T09:36:57.316Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI智能体自主决策，任务拆解，工具调用，无需预设路径",
+    "original_quote": "我没有规划这些步骤，是它自己把事情做完了。",
+    "original_context": "他随手给这个 AI 发了一段语音，对方直接回复了一段文字，而且翻译得很自然。问题在于，他写代码时，压根没给它写过语音处理功能。AI 在后台自己完成了这一切：它自己先判断文件类型，发现是音频；然后自主寻找可用工具，把音频转成可识别的格式；接着发现本地缺少转写能力，就调用了外部接口；最后整理好结果，用一种更像人说话的方式发了回来。整个过程仅耗时9秒。没有一行代码是他提前设定好的。他在台上说：我没有规划这些步骤，是它自己把事情做完了。",
+    "article_id": "2026-04-19-fc566b56",
+    "article_title": "会干活的 AI，火到 TED 了",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497842&idx=1&sn=494b5f30cbbaea98cc883dc1e6815ff9&chksm=f1173e06185f0ef0dbe2f0dbc16b260b8f75dfe82a0632ba4cb8332dd7567652624bf5b14e78&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-04-19T23:56:00.000Z"
+  },
+  {
+    "id": "2026-04-19-insight-022",
+    "created_at": "2026-04-29T09:36:57.316Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI降低开发门槛，非技术人员也能构建产品，商业机会扩大",
+    "original_quote": "当“写代码”本身不再是门槛时，谁能上牌桌？答案很直接，也有点让人后怕。能把想法变成产品的人，范围在快速扩大。",
+    "original_context": "在维也纳的一次线下活动上，Peter遇到了一对父子。父亲已经60岁，从来没写过代码。他们只是给 OpenClaw 发了一句话：我们想做一个自动酿啤酒的系统。OpenClaw立刻拆解了整个流程：温度如何控制、时间怎么安排、原料何时加入……每一步的执行细节都被理得清清楚楚。随后，它开始自动串联这些步骤，跑通了一次完整的酿造流程。最后，它甚至主动提出了一个商业建议：既然系统已经跑通了，为什么不把它做成一个可以对外售卖的产品呢？于是，父子俩又让OpenClaw顺手搭了一个简单的网站，并接入了支付功能。一个原本只是试试看的业余想法，就这样变成了一门真正的生意。",
+    "article_id": "2026-04-19-fc566b56",
+    "article_title": "会干活的 AI，火到 TED 了",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497842&idx=1&sn=494b5f30cbbaea98cc883dc1e6815ff9&chksm=f1173e06185f0ef0dbe2f0dbc16b260b8f75dfe82a0632ba4cb8332dd7567652624bf5b14e78&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-04-19T23:56:00.000Z"
+  },
+  {
+    "id": "2026-04-19-insight-023",
+    "created_at": "2026-04-29T09:36:57.316Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI自主决策带来安全风险，安全边界模糊，漏洞数量激增",
+    "original_quote": "当执行能力被放大，犯错的破坏力也会被放大；当流程被全自动化，安全的边界也随之模糊。",
+    "original_context": "在 TED 演讲中，Peter 也坦言，他自己现在也很痛苦。因为在过去的几个月里，他几乎每天都在焦虑中处理安全问题。系统累计收到了超过一千条安全报告，平均每天十几条，且绝大多数都被标记为“高危”。这个量级，在开源项目中是极其反常的。他做过一个对比：像Linux内核这种级别的项目，每天大概收到八九个安全报告，而OpenClaw面对的数量，是它的两倍以上。",
+    "article_id": "2026-04-19-fc566b56",
+    "article_title": "会干活的 AI，火到 TED 了",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497842&idx=1&sn=494b5f30cbbaea98cc883dc1e6815ff9&chksm=f1173e06185f0ef0dbe2f0dbc16b260b8f75dfe82a0632ba4cb8332dd7567652624bf5b14e78&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-04-19T23:56:00.000Z"
+  },
+  {
+    "id": "2026-04-19-insight-024",
+    "created_at": "2026-04-29T09:36:57.316Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI自主决策，安全风险，公开技术，推动问题解决",
+    "original_quote": "我把这个项目看作是一扇通向未来的窗。如果这种级别的技术只掌握在大厂手里，他们永远不会把它公开出来，因为法务部门会提前扼杀它。但现在，既然有这么多人想要这种能力，这反而能让我们更快去直面并解决那些问题。",
+    "original_context": "在 TED 演讲的尾声，主持人向 Peter 抛出了一个尖锐的问题：你不觉得把这样的东西直接发布出来，有些过于激进和鲁莽了吗？他的回答很坦诚：“我把这个项目看作是一扇通向未来的窗。如果这种级别的技术只掌握在大厂手里，他们永远不会把它公开出来，因为法务部门会提前扼杀它。但现在，既然有这么多人想要这种能力，这反而能让我们更快去直面并解决那些问题。”",
+    "article_id": "2026-04-19-fc566b56",
+    "article_title": "会干活的 AI，火到 TED 了",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497842&idx=1&sn=494b5f30cbbaea98cc883dc1e6815ff9&chksm=f1173e06185f0ef0dbe2f0dbc16b260b8f75dfe82a0632ba4cb8332dd7567652624bf5b14e78&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-04-19T23:56:00.000Z"
+  },
+  {
+    "id": "2026-04-19-insight-025",
+    "created_at": "2026-04-29T09:36:57.316Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI降低开发门槛，竞争加剧，胜负取决于商业方向与决策能力",
+    "original_quote": "门槛荡平之后，真正拉开人与人差距的，不再是敲键盘的技术能力，而是对商业方向的敏锐度，以及在进程中不断纠偏的掌舵力。",
+    "original_context": "当所有人都能轻易挤进同一条赛道，决定胜负的不再是“你会不会做”，而是“你选择做什么”以及“你用什么方式做”。换句话说，门槛荡平之后，真正拉开人与人差距的，不再是敲键盘的技术能力，而是对商业方向的敏锐度，以及在进程中不断纠偏的掌舵力。",
+    "article_id": "2026-04-19-fc566b56",
+    "article_title": "会干活的 AI，火到 TED 了",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497842&idx=1&sn=494b5f30cbbaea98cc883dc1e6815ff9&chksm=f1173e06185f0ef0dbe2f0dbc16b260b8f75dfe82a0632ba4cb8332dd7567652624bf5b14e78&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-04-19T23:56:00.000Z"
+  }
+]

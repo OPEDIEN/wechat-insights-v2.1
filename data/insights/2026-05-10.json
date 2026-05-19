@@ -1,0 +1,93 @@
+[
+  {
+    "id": "2026-05-10-insight-042",
+    "created_at": "2026-05-19T06:10:39.826Z",
+    "dimension": "AI Infra",
+    "key_viewpoints": "算力电力瓶颈，Anthropic与OpenAI增长受限于数据中心供应，电力成为AI军备竞赛核心",
+    "original_quote": "Anthropic 和 OpenAI 的营收表现与市场需求毫无关系。零关系。这完全受制于数据中心的供应瓶颈，确切地说，是电力瓶颈。如果他们拥有无限的电力，我认为他们的营收曲线将会呈现出更惊人的抛物线式暴涨。",
+    "original_context": "首先，正如我几周前所说，Anthropic 和 OpenAI 的营收表现与市场需求毫无关系。零关系。这完全受制于数据中心的供应瓶颈，确切地说，是电力瓶颈。如果他们拥有无限的电力，我认为他们的营收曲线将会呈现出更惊人的抛物线式暴涨。因此，在我看来，外界所有关于他们“超出”或“低于”营收预期的那种大惊小怪，根本没有任何意义。我认为这两家公司未来五年的基本面非常强劲。他们眼下真正渴望的，就是更多的算力和电力。",
+    "article_id": "2026-05-10-6b45a1fe",
+    "article_title": "All-in播客: Anthropic或成为ARR万亿级企业，马斯克转型新云服务商",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650018917&idx=1&sn=6638b20f7e47f698b2c71249df782346&chksm=89f65b17fae23b3bfb9862846439ffd6053a4b4bb8c077caa7684733aef726621453bdad0b84&scene=0#rd",
+    "source": "瓜哥AI新知",
+    "pub_date": "2026-05-10T04:58:00.000Z"
+  },
+  {
+    "id": "2026-05-10-insight-043",
+    "created_at": "2026-05-19T06:10:39.826Z",
+    "dimension": "AI Infra",
+    "key_viewpoints": "马斯克云服务EWS，SpaceX算力基础设施变现，反哺xAI训练成本，成为超大规模云服务商",
+    "original_quote": "即使轨道数据中心延期几个月甚至几个季度，他现在手里也握有一项结构性的核心业务，这项业务赚取的现金流足以直接补贴他训练 Grok 的成本。我认为这是一个极其重要、却被市场严重低估的核心逻辑。",
+    "original_context": "而通过真金白银地落地大批地面算力设施 (terrestrial capacity)，我认为他已经开始有力地回击了这种质疑。因为现在你可以理直气壮地说：即使轨道数据中心延期几个月甚至几个季度，或者技术的去风险化 (De-risking) 需要更长时间，他现在手里也握有一项结构性的核心业务，这项业务赚取的现金流足以直接补贴他训练 Grok 的成本。我认为这是一个极其重要、却被市场严重低估的核心逻辑。",
+    "article_id": "2026-05-10-6b45a1fe",
+    "article_title": "All-in播客: Anthropic或成为ARR万亿级企业，马斯克转型新云服务商",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650018917&idx=1&sn=6638b20f7e47f698b2c71249df782346&chksm=89f65b17fae23b3bfb9862846439ffd6053a4b4bb8c077caa7684733aef726621453bdad0b84&scene=0#rd",
+    "source": "瓜哥AI新知",
+    "pub_date": "2026-05-10T04:58:00.000Z"
+  },
+  {
+    "id": "2026-05-10-insight-044",
+    "created_at": "2026-05-19T06:10:39.826Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "Anthropic指数级增长，ARR预测，万亿美元营收潜力，成为史上最强垄断帝国",
+    "original_quote": "除非他们目前的增长轨迹发生逆转，否则Anthropic将成为人类历史上所缔造的最强大的垄断帝国。我再说一遍，这将是一个拥有万亿美元ARR，并且还在呈指数级狂飙的巨兽。",
+    "original_context": "所以，如果Anthropic继续沿着这个轨迹前行——让我纠正一下刚才的说法，大家觉得他们会跻身“科技七巨头”，我想表达的是截然不同的概念：除非他们目前的增长轨迹发生逆转，否则Anthropic将成为人类历史上所缔造的最强大的垄断帝国。我再说一遍，这将是一个拥有万亿美元ARR，并且还在呈指数级狂飙的巨兽。有意思的是，达里奥管这叫AGI（通用人工智能），而我管这叫人类历史上最大的垄断机器。",
+    "article_id": "2026-05-10-6b45a1fe",
+    "article_title": "All-in播客: Anthropic或成为ARR万亿级企业，马斯克转型新云服务商",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650018917&idx=1&sn=6638b20f7e47f698b2c71249df782346&chksm=89f65b17fae23b3bfb9862846439ffd6053a4b4bb8c077caa7684733aef726621453bdad0b84&scene=0#rd",
+    "source": "瓜哥AI新知",
+    "pub_date": "2026-05-10T04:58:00.000Z"
+  },
+  {
+    "id": "2026-05-10-insight-045",
+    "created_at": "2026-05-19T06:10:39.826Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI编程市场TAM，代码词元生成，软件市场规模翻倍，Anthropic与OpenAI竞争格局",
+    "original_quote": "单单是编程领域的总市场规模就有1万亿美元，这意味着每年大约有1万亿美元花在软件开发者以及所有与软件开发相关的事情上。我并不是说他们会吞下整个市场，但我能轻易预见到软件市场规模翻倍。",
+    "original_context": "关于TAM，我提供一个数据点：据我了解，单单是编程领域的总市场规模就有1万亿美元，这意味着每年大约有1万亿美元花在软件开发者以及所有与软件开发相关的事情上。我并不是说他们会吞下整个市场，但我能轻易预见到软件市场规模翻倍。等等，是从1万亿翻倍到2万亿美元，因为代码词元(Coding Tokens)的生成能力基本上让这个市场的价值，以及代码生成的效率，提升了10倍甚至100倍。",
+    "article_id": "2026-05-10-6b45a1fe",
+    "article_title": "All-in播客: Anthropic或成为ARR万亿级企业，马斯克转型新云服务商",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650018917&idx=1&sn=6638b20f7e47f698b2c71249df782346&chksm=89f65b17fae23b3bfb9862846439ffd6053a4b4bb8c077caa7684733aef726621453bdad0b84&scene=0#rd",
+    "source": "瓜哥AI新知",
+    "pub_date": "2026-05-10T04:58:00.000Z"
+  },
+  {
+    "id": "2026-05-10-insight-046",
+    "created_at": "2026-05-19T06:10:39.826Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI经济红利，低失业率与高增长并存，生产力跃升转化为企业利润，未导致大规模裁员",
+    "original_quote": "Brad刚才谈到了我们是如何实现这些运营效率提升的。在此期间，失业率却一直保持在历史低位。经济学界通常认为4%到5%就属于充分就业，而我们这段时间一直维持在4%出头的低位——大约4.2%。由此可见，你完全可以在保持极低失业率的同时，实现运营效率的飞跃。",
+    "original_context": "Brad刚才谈到了我们是如何实现这些运营效率提升的。在此期间，失业率却一直保持在历史低位。经济学界通常认为4%到5%就属于充分就业，而我们这段时间一直维持在4%出头的低位——大约4.2%。由此可见，你完全可以在保持极低失业率的同时，实现运营效率的飞跃。此外，最近有一篇重磅文章指出，年轻大学毕业生的失业率已经下降。",
+    "article_id": "2026-05-10-6b45a1fe",
+    "article_title": "All-in播客: Anthropic或成为ARR万亿级企业，马斯克转型新云服务商",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650018917&idx=1&sn=6638b20f7e47f698b2c71249df782346&chksm=89f65b17fae23b3bfb9862846439ffd6053a4b4bb8c077caa7684733aef726621453bdad0b84&scene=0#rd",
+    "source": "瓜哥AI新知",
+    "pub_date": "2026-05-10T04:58:00.000Z"
+  },
+  {
+    "id": "2026-05-10-insight-047",
+    "created_at": "2026-05-19T06:10:39.826Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI监管，预发布审批扼杀创新，反对AI版FDA，主张具体问题具体解决",
+    "original_quote": "应该用具体的方案解决具体的问题，而不是让华盛顿借机进行一场会扼杀创新的权力掠夺。",
+    "original_context": "事实上，如果你回看3月20日，白宫发布了一份我参与起草的国家人工智能监管框架，其中我们列出了一份长达四页的立法清单，明确表示如果国会愿意通过，我们会予以支持。我们并非反对所有可能的监管或法律；我们只是认为，应该用具体的方案解决具体的问题，而不是让华盛顿借机进行一场会扼杀创新的权力掠夺。",
+    "article_id": "2026-05-10-6b45a1fe",
+    "article_title": "All-in播客: Anthropic或成为ARR万亿级企业，马斯克转型新云服务商",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650018917&idx=1&sn=6638b20f7e47f698b2c71249df782346&chksm=89f65b17fae23b3bfb9862846439ffd6053a4b4bb8c077caa7684733aef726621453bdad0b84&scene=0#rd",
+    "source": "瓜哥AI新知",
+    "pub_date": "2026-05-10T04:58:00.000Z"
+  },
+  {
+    "id": "2026-05-10-insight-048",
+    "created_at": "2026-05-19T06:10:39.826Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI投资回报率分水岭，模型营收验证后，需证明客户购买Token能带来ROI，否则面临清算",
+    "original_quote": "你不能单纯为市场制造产品，而买单的市场本身却得不到实质性的收益。坦白且尖锐地说，目前根本没有任何一丝证据表明，AI 提升了标普 500（S&P 500）公司的营业利润率。",
+    "original_context": "你不能单纯为市场制造产品，而买单的市场本身却得不到实质性的收益。坦白且尖锐地说，目前根本没有任何一丝证据表明，AI 提升了标普 500（S&P 500）公司的营业利润率。各种吹嘘炒作满天飞。但在未来两三年内，我们将面临一个至关重要的分水岭（Fork in the road）。一条路是：运营支出（OpEx）缩减，从而带动利润率上升。另一条路是：营收增长带动利润率扩大，而运营支出保持平稳，甚至有所增加。",
+    "article_id": "2026-05-10-6b45a1fe",
+    "article_title": "All-in播客: Anthropic或成为ARR万亿级企业，马斯克转型新云服务商",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650018917&idx=1&sn=6638b20f7e47f698b2c71249df782346&chksm=89f65b17fae23b3bfb9862846439ffd6053a4b4bb8c077caa7684733aef726621453bdad0b84&scene=0#rd",
+    "source": "瓜哥AI新知",
+    "pub_date": "2026-05-10T04:58:00.000Z"
+  }
+]

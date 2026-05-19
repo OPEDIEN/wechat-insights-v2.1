@@ -1,0 +1,54 @@
+[
+  {
+    "id": "2026-04-21-insight-230",
+    "created_at": "2026-04-29T09:39:50.447Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "ChatGPT Images 2，先想再画，逻辑思考能力，自我校验机制，一站式生成",
+    "original_quote": "AI 图片工具已经从单纯的解决“怎么画”，变成了现在“先想什么、再做什么”。……模型会在最终输出前检查自身生成的结果，以确保多张图片之间的一致性。",
+    "original_context": "AI 图片工具已经从单纯的解决“怎么画”，变成了现在“先想什么、再做什么”。……Sam Altman 在现场明确表示：Imagine 2 在生成图像之前，会先进行一轮思考，甚至主动检索信息，再将结果组织成视觉画面。……模型会在最终输出前检查自身生成的结果，以确保多张图片之间的一致性。",
+    "article_id": "2026-04-21-3f0d85d1",
+    "article_title": "OpenAI：图片，开始会想了",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497856&idx=1&sn=3236119f2af12c6915c9a5f0eea4835c&chksm=f117287c1045cd856baff57f97e1dc282111ae15e800496394b857bf167d9592180869899b56&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-04-21T23:58:00.000Z"
+  },
+  {
+    "id": "2026-04-21-insight-231",
+    "created_at": "2026-04-29T09:39:50.447Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "ChatGPT Images 2，商业实用性，经济价值，创意任务，直接投入业务流",
+    "original_quote": "在整场发布中，团队不再刻意强调生成效果有多好玩或惊艳，反复提及的是具有经济价值的创意任务。说白了，就是产出能直接投入业务流、甚至直接带来转化的资产。",
+    "original_context": "最直接的信号，是他们对产品定位的表达变了。在整场发布中，团队不再刻意强调生成效果有多好玩或惊艳，反复提及的是具有经济价值的创意任务。说白了，就是产出能直接投入业务流、甚至直接带来转化的资产。",
+    "article_id": "2026-04-21-3f0d85d1",
+    "article_title": "OpenAI：图片，开始会想了",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497856&idx=1&sn=3236119f2af12c6915c9a5f0eea4835c&chksm=f117287c1045cd856baff57f97e1dc282111ae15e800496394b857bf167d9592180869899b56&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-04-21T23:58:00.000Z"
+  },
+  {
+    "id": "2026-04-21-insight-232",
+    "created_at": "2026-04-29T09:39:50.447Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI 工具，交付结果，减少中间步骤，工作流程重构，效率差",
+    "original_quote": "AI 正在从提供工具，变成直接交付结果。……当 AI直接交出一个能用的版本，你要做的事情就变了。不再是从零开始做，而是从一个已经成型的东西开始改。",
+    "original_context": "AI 正在从提供工具，变成直接交付结果。……当 AI直接交出一个能用的版本，你要做的事情就变了。不再是从零开始做，而是从一个已经成型的东西开始改。",
+    "article_id": "2026-04-21-3f0d85d1",
+    "article_title": "OpenAI：图片，开始会想了",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497856&idx=1&sn=3236119f2af12c6915c9a5f0eea4835c&chksm=f117287c1045cd856baff57f97e1dc282111ae15e800496394b857bf167d9592180869899b56&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-04-21T23:58:00.000Z"
+  },
+  {
+    "id": "2026-04-21-insight-233",
+    "created_at": "2026-04-29T09:39:50.447Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI 能力，重塑专业能力定义，技能半衰期缩短，判断力",
+    "original_quote": "以前，人负责想，机器负责执行。现在，机器开始分担一部分的“想”，人要做的，是在机器想完之后，做出判断。……技能的半衰期，正在以肉眼可见的速度缩短。",
+    "original_context": "以前，人负责想，机器负责执行。现在，机器开始分担一部分的“想”，人要做的，是在机器想完之后，做出判断。这将彻底重塑职场对“专业能力”的定义。……技能的半衰期，正在以肉眼可见的速度缩短。",
+    "article_id": "2026-04-21-3f0d85d1",
+    "article_title": "OpenAI：图片，开始会想了",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497856&idx=1&sn=3236119f2af12c6915c9a5f0eea4835c&chksm=f117287c1045cd856baff57f97e1dc282111ae15e800496394b857bf167d9592180869899b56&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-04-21T23:58:00.000Z"
+  }
+]

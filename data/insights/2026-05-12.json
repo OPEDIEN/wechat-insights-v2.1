@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2026-05-12-insight-069",
+    "created_at": "2026-05-19T06:10:52.831Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI就业影响，技能重置，使用AI的人将取代不使用AI的人",
+    "original_quote": "使用AI的人，将取代不使用AI的人。",
+    "original_context": "在达沃斯论坛，吴恩达说过一句话值得记住： “使用AI的人，将取代不使用AI的人。” 这不是末日，这是一次技能重置的窗口期。",
+    "article_id": "2026-05-12-358e4157",
+    "article_title": "吴恩达：不会有所谓的“AI 就业末日”",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497925&idx=1&sn=daadf70818e095917765267d2c014ac4&chksm=f18efa8b5669e6aad23bbaec8b5482ae6f0fd5a92eb6ef9e956739e70345aad086060569dbc8&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-05-12T23:57:00.000Z"
+  },
+  {
+    "id": "2026-05-12-insight-070",
+    "created_at": "2026-05-19T06:10:52.831Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI就业末日论，利益驱动，恐惧驱动，定价逻辑，公关话术",
+    "original_quote": "这套叙事不是数据驱动的，是恐惧驱动的。恐惧是产品，资本是目的。",
+    "original_context": "纽约大学商学院教授、科技评论人 Scott Galloway 的判断一针见血： “这套叙事不是数据驱动的，是恐惧驱动的。恐惧是产品，资本是目的。”",
+    "article_id": "2026-05-12-358e4157",
+    "article_title": "吴恩达：不会有所谓的“AI 就业末日”",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497925&idx=1&sn=daadf70818e095917765267d2c014ac4&chksm=f18efa8b5669e6aad23bbaec8b5482ae6f0fd5a92eb6ef9e956739e70345aad086060569dbc8&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-05-12T23:57:00.000Z"
+  },
+  {
+    "id": "2026-05-12-insight-071",
+    "created_at": "2026-05-19T06:10:52.831Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI就业冲击，宏观数据，无系统性破坏，耶鲁预算实验室",
+    "original_quote": "耶鲁预算实验室： 4月的报告措辞更直接，对AI就业冲击的担忧“目前基本停留在猜测层面”，宏观数据呈现的是稳定，而非系统性破坏。",
+    "original_context": "耶鲁预算实验室： 4月的报告措辞更直接，对AI就业冲击的担忧“目前基本停留在猜测层面”，宏观数据呈现的是稳定，而非系统性破坏。",
+    "article_id": "2026-05-12-358e4157",
+    "article_title": "吴恩达：不会有所谓的“AI 就业末日”",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497925&idx=1&sn=daadf70818e095917765267d2c014ac4&chksm=f18efa8b5669e6aad23bbaec8b5482ae6f0fd5a92eb6ef9e956739e70345aad086060569dbc8&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-05-12T23:57:00.000Z"
+  },
+  {
+    "id": "2026-05-12-insight-072",
+    "created_at": "2026-05-19T06:10:52.831Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "杰文斯悖论，AI创造就业，历史类比，电子表格与会计师",
+    "original_quote": "电子表格没有替代会计师，它释放了一直潜藏但受制于成本的金融智识需求。",
+    "original_context": "亚利桑那州立大学会计学教授Eldar Maksymov总结这段历史时说：电子表格没有替代会计师，它释放了一直潜藏但受制于成本的金融智识需求。 这个机制叫杰文斯悖论（Jevons Paradox）：一项技术让某类服务变得更便宜、更高效，反而会刺激这类服务的总需求大幅增长，最终创造出更多岗位。",
+    "article_id": "2026-05-12-358e4157",
+    "article_title": "吴恩达：不会有所谓的“AI 就业末日”",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497925&idx=1&sn=daadf70818e095917765267d2c014ac4&chksm=f18efa8b5669e6aad23bbaec8b5482ae6f0fd5a92eb6ef9e956739e70345aad086060569dbc8&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-05-12T23:57:00.000Z"
+  },
+  {
+    "id": "2026-05-12-insight-073",
+    "created_at": "2026-05-19T06:10:52.831Z",
+    "dimension": "Agent 应用",
+    "key_viewpoints": "AI就业末日论，主流媒体质疑，a16z，幻想，糟糕的营销话术",
+    "original_quote": "a16z合伙人David George本周发文，直接称“AI就业末日论是一个彻底的幻想”，定性为“糟糕的营销话术、糟糕的经济学、更糟糕的历史观”。",
+    "original_context": "a16z合伙人David George本周发文，直接称“AI就业末日论是一个彻底的幻想”，定性为“糟糕的营销话术、糟糕的经济学、更糟糕的历史观”。",
+    "article_id": "2026-05-12-358e4157",
+    "article_title": "吴恩达：不会有所谓的“AI 就业末日”",
+    "article_url": "http://mp.weixin.qq.com/s?__biz=MzYyNTQwNzIwNA==&mid=2247497925&idx=1&sn=daadf70818e095917765267d2c014ac4&chksm=f18efa8b5669e6aad23bbaec8b5482ae6f0fd5a92eb6ef9e956739e70345aad086060569dbc8&scene=0#rd",
+    "source": "AI 深度研究员",
+    "pub_date": "2026-05-12T23:57:00.000Z"
+  }
+]
